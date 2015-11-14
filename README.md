@@ -7,3 +7,5 @@ Miembros
 * Pablo Carrasco
 
 Vamos a añadir unas líneas para probar que zapier funciona bien con Toggl.
+
+Como no ha funcionado, vamos a hacer otro intento.
