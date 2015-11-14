@@ -5,5 +5,3 @@ Miembros
 * Alejandro Sánchez
 * Daniel de los Reyes
 * Pablo Carrasco
-
-Tercera prueba de Toggl..
