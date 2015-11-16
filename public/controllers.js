@@ -37,7 +37,7 @@ myApp.controller('AppCtrl', ['$scope', '$http', function ($scope, $http) {
 				$scope.refresh();
 			});
 		else
-			$http.delete(url + '/contacts/'+oid).success(function (response) {
+			$http.delete(url + '/'+oid).success(function (response) {
 				$scope.refresh();
 			});
 	}
