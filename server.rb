@@ -4,7 +4,7 @@ require 'json'
 require 'mongoid'
 
 Mongoid.load!("mongoid.yml")
-set :public_folder, '../public'
+set :public_folder, 'public'
 
 class Contact
 	include Mongoid::Document
